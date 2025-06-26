@@ -1,4 +1,4 @@
-👋 Hello world, I’m @Melcade and new to Github. 
+👋 Hello world, I’m @Melcade 
 I'm a student in business informatics B. Sc. and love to learn new things. 
 My interests consist of exploring new technologies, weight training in the gym and playing video games.
 🌱 I’m currently learning to code in Python and to edit and create databases with Sql.
